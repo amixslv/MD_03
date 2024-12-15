@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flexbox;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div-border {
+    border: 1px solid white;
+
+
+}
+
+.div-texst h1 {
+    color: white;
+    font-size: 3em;
+    margin: 0;
+    text-align: center;
+}
+
+.div-texst p {
+    color: white;
+    font-size: 2em;
+    margin: 0;
+    padding: 50px;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.div-texst ul {
+    border: 1px solid white;
+    display: inline-flexbox;
+    margin: 50px;
+
+}
+
+.div-texst li {
+    list-style-type: none;
+    color: white;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
